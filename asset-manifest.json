@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hanghae99_s8week3_assignment/static/css/main.d47c3faa.css",
+    "main.js": "/hanghae99_s8week3_assignment/static/js/main.49c16291.js",
+    "static/js/787.b5c525d6.chunk.js": "/hanghae99_s8week3_assignment/static/js/787.b5c525d6.chunk.js",
+    "index.html": "/hanghae99_s8week3_assignment/index.html",
+    "main.d47c3faa.css.map": "/hanghae99_s8week3_assignment/static/css/main.d47c3faa.css.map",
+    "main.49c16291.js.map": "/hanghae99_s8week3_assignment/static/js/main.49c16291.js.map",
+    "787.b5c525d6.chunk.js.map": "/hanghae99_s8week3_assignment/static/js/787.b5c525d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d47c3faa.css",
+    "static/js/main.49c16291.js"
+  ]
+}
