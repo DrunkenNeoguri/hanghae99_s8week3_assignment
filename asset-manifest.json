@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hanghae99_s8week3_assignment/static/css/main.d47c3faa.css",
-    "main.js": "/hanghae99_s8week3_assignment/static/js/main.92405933.js",
+    "main.css": "/hanghae99_s8week3_assignment/static/css/main.697fdea1.css",
+    "main.js": "/hanghae99_s8week3_assignment/static/js/main.17578506.js",
     "static/js/787.b5c525d6.chunk.js": "/hanghae99_s8week3_assignment/static/js/787.b5c525d6.chunk.js",
     "index.html": "/hanghae99_s8week3_assignment/index.html",
-    "main.d47c3faa.css.map": "/hanghae99_s8week3_assignment/static/css/main.d47c3faa.css.map",
-    "main.92405933.js.map": "/hanghae99_s8week3_assignment/static/js/main.92405933.js.map",
+    "main.697fdea1.css.map": "/hanghae99_s8week3_assignment/static/css/main.697fdea1.css.map",
+    "main.17578506.js.map": "/hanghae99_s8week3_assignment/static/js/main.17578506.js.map",
     "787.b5c525d6.chunk.js.map": "/hanghae99_s8week3_assignment/static/js/787.b5c525d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d47c3faa.css",
-    "static/js/main.92405933.js"
+    "static/css/main.697fdea1.css",
+    "static/js/main.17578506.js"
   ]
 }
